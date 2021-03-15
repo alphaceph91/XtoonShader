@@ -1,0 +1,9 @@
+﻿  main.cpp
+\\mac\dropbox\learnopengl-glwf-glad\solutions\07a-diffuselightingcube\drawcube\main.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\mac\dropbox\learnopengl-glwf-glad\solutions\07a-diffuselightingcube\drawcube\main.cpp(319): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  glad.cpp
+  Generating Code...
+\\mac\dropbox\learnopengl-glwf-glad\solutions\07a-diffuselightingcube\drawcube\main.cpp(206): warning C4715: 'loadShaders': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  DrawCube.vcxproj -> \\Mac\Dropbox\learnOpenGL-GLWF-GLAD\solutions\07a-DiffuseLightingCube\Debug\DrawCube.exe
+  DrawCube.vcxproj -> \\Mac\Dropbox\learnOpenGL-GLWF-GLAD\solutions\07a-DiffuseLightingCube\Debug\DrawCube.pdb (Partial PDB)

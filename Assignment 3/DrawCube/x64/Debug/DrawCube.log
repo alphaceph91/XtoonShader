@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DrawCube.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.cpp
+  main.cpp
+C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\Dependencies\include\learnopengl\mesh.h(88,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\Dependencies\include\learnopengl\model.h(212,24): warning C4101: 'nrComponents': unreferenced local variable
+C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\DrawCube\main.cpp(40,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\DrawCube\main.cpp(113,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\DrawCube\main.cpp(156,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\DrawCube\main.cpp(195,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\DrawCube\main.cpp(197,24): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\x64\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\x64\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\x64\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\x64\Debug\SOIL.pdb'; linking object as if no debug info
+  DrawCube.vcxproj -> C:\Users\DEXTER\Desktop\ACG Assignment 3\Assignment 3\x64\Debug\XtoonShader.exe
